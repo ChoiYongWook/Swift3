@@ -1,0 +1,603 @@
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "0b9-9i-oot"; */
+"0b9-9i-oot.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Exchange Red View with Green View"; ObjectID = "0i9-hI-xig"; */
+"0i9-hI-xig.normalTitle" = "Exchange Red View with Green View";
+
+/* Class = "UILabel"; text = "UIStoryboardSegue"; ObjectID = "12c-Qx-42b"; */
+"12c-Qx-42b.text" = "UIStoryboardSegue";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Ai-Pj-Q6M"; */
+"1Ai-Pj-Q6M.text" = "Label";
+
+/* Class = "UILabel"; text = "Color, Alpha, Hidden, Clip to Bounds"; ObjectID = "2K8-YD-CJe"; */
+"2K8-YD-CJe.text" = "Color, Alpha, Hidden, Clip to Bounds";
+
+/* Class = "UILabel"; text = "Scroll View + Page Control  "; ObjectID = "2P0-3f-5PT"; */
+"2P0-3f-5PT.text" = "Scroll View + Page Control  ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Td-SR-j1D"; */
+"2Td-SR-j1D.text" = "Label";
+
+/* Class = "UILabel"; text = "Count Down Timer, Local Notification"; ObjectID = "2aF-Vg-sQL"; */
+"2aF-Vg-sQL.text" = "Count Down Timer, Local Notification";
+
+/* Class = "UILabel"; text = "인사"; ObjectID = "2bo-UN-Jv0"; */
+"2bo-UN-Jv0.text" = "Greeting";
+
+/* Class = "UILabel"; text = "VC Transition, Custom Segue"; ObjectID = "2es-qT-Izx"; */
+"2es-qT-Izx.text" = "VC Transition, Custom Segue";
+
+/* Class = "UILabel"; text = "UISwitch"; ObjectID = "2iu-pK-Yld"; */
+"2iu-pK-Yld.text" = "UISwitch";
+
+/* Class = "UILabel"; text = "UIPanGestureRecognizer"; ObjectID = "4Eq-DU-rUw"; */
+"4Eq-DU-rUw.text" = "UIPanGestureRecognizer";
+
+/* Class = "UILabel"; text = "UIDatePicker, DateFormatter"; ObjectID = "4MV-sD-xj8"; */
+"4MV-sD-xj8.text" = "UIDatePicker, DateFormatter";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "4wa-dg-Gsm"; */
+"4wa-dg-Gsm.text" = "Address";
+
+/* Class = "UILabel"; text = "Handling Touches, Drawing Pad"; ObjectID = "52T-5l-Rxp"; */
+"52T-5l-Rxp.text" = "Handling Touches, Drawing Pad";
+
+/* Class = "UILabel"; text = "UIScrollView, UIPageControl"; ObjectID = "54T-eD-qSJ"; */
+"54T-eD-qSJ.text" = "UIScrollView, UIPageControl";
+
+/* Class = "UITableViewSection"; headerTitle = "Gesture"; ObjectID = "5n0-uz-gSz"; */
+"5n0-uz-gSz.headerTitle" = "Gesture";
+
+/* Class = "UILabel"; text = "Shadow Offset"; ObjectID = "6Mv-NI-Tsc"; */
+"6Mv-NI-Tsc.text" = "Shadow Offset";
+
+/* Class = "UILabel"; text = "Image Picker, Random Number"; ObjectID = "6bJ-Zd-mpi"; */
+"6bJ-Zd-mpi.text" = "Image Picker, Random Number";
+
+/* Class = "UIButton"; normalTitle = "Bring Green View to Front"; ObjectID = "6h3-h0-7Xg"; */
+"6h3-h0-7Xg.normalTitle" = "Bring Green View to Front";
+
+/* Class = "UILabel"; text = "Geocode, Reverse Geocode"; ObjectID = "6ph-ai-jex"; */
+"6ph-ai-jex.text" = "Geocode, Reverse Geocode";
+
+/* Class = "UIButton"; normalTitle = "Choose Transition Type"; ObjectID = "7Ek-Yj-GO1"; */
+"7Ek-Yj-GO1.normalTitle" = "Choose Transition Type";
+
+/* Class = "UILabel"; text = "Blur Effect"; ObjectID = "7H8-BM-wyu"; */
+"7H8-BM-wyu.text" = "Blur Effect";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "7i4-Dh-dbc"; */
+"7i4-Dh-dbc.normalTitle" = "Play";
+
+/* Class = "UILabel"; text = "Button"; ObjectID = "7ma-bg-3Dw"; */
+"7ma-bg-3Dw.text" = "Button";
+
+/* Class = "UILabel"; text = "Slider"; ObjectID = "7qU-MP-cHc"; */
+"7qU-MP-cHc.text" = "Slider";
+
+/* Class = "UIBarButtonItem"; title = "Add Pin"; ObjectID = "7x3-sI-bvR"; */
+"7x3-sI-bvR.title" = "Add Pin";
+
+/* Class = "UILabel"; text = "B"; ObjectID = "7y6-Zj-8uW"; */
+"7y6-Zj-8uW.text" = "B";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "888-iz-kic"; */
+"888-iz-kic.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Input Longitude"; ObjectID = "A0S-ua-VLZ"; */
+"A0S-ua-VLZ.placeholder" = "Input Longitude";
+
+/* Class = "UITextField"; text = "127.0320195"; ObjectID = "A0S-ua-VLZ"; */
+"A0S-ua-VLZ.text" = "127.0320195";
+
+/* Class = "UITableViewSection"; headerTitle = "Concurrency"; ObjectID = "AwJ-PP-Gzl"; */
+"AwJ-PP-Gzl.headerTitle" = "Concurrency";
+
+/* Class = "UILabel"; text = "Single Picker"; ObjectID = "Bpn-Ip-l9g"; */
+"Bpn-Ip-l9g.text" = "Single Picker";
+
+/* Class = "UILabel"; text = "Directions Mode"; ObjectID = "CWx-ep-A5P"; */
+"CWx-ep-A5P.text" = "Directions Mode";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "DHh-uC-oaJ"; */
+"DHh-uC-oaJ.text" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DYi-ge-Ps3"; */
+"DYi-ge-Ps3.text" = "Label";
+
+/* Class = "UILabel"; text = "UIView, IBDesignable, IBInspectable"; ObjectID = "DkF-H3-7dT"; */
+"DkF-H3-7dT.text" = "UIView, IBDesignable, IBInspectable";
+
+/* Class = "UILabel"; text = "G"; ObjectID = "DtS-qf-XES"; */
+"DtS-qf-XES.text" = "G";
+
+/* Class = "UILabel"; text = "Layer"; ObjectID = "Eda-nd-iZe"; */
+"Eda-nd-iZe.text" = "Layer";
+
+/* Class = "UILabel"; text = "UIRotationGestureRecognizer"; ObjectID = "Ew2-sN-D7l"; */
+"Ew2-sN-D7l.text" = "UIRotationGestureRecognizer";
+
+/* Class = "UITableViewSection"; headerTitle = "Location & Map"; ObjectID = "GiV-Dp-Zcv"; */
+"GiV-Dp-Zcv.headerTitle" = "Location & Map";
+
+/* Class = "UILabel"; text = "Activity Indicators"; ObjectID = "I4a-bJ-C4M"; */
+"I4a-bJ-C4M.text" = "Activity Indicators";
+
+/* Class = "UILabel"; text = "DispatchSourceTimer"; ObjectID = "ID9-UV-9EW"; */
+"ID9-UV-9EW.text" = "DispatchSourceTimer";
+
+/* Class = "UITableViewSection"; headerTitle = "Picker"; ObjectID = "IFH-jD-cHT"; */
+"IFH-jD-cHT.headerTitle" = "Picker";
+
+/* Class = "UILabel"; text = "Hidden"; ObjectID = "IIF-pN-5lM"; */
+"IIF-pN-5lM.text" = "Hidden";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IMG-f9-A2e"; */
+"IMG-f9-A2e.text" = "Label";
+
+/* Class = "UILabel"; text = "UIViewAnimationOptions"; ObjectID = "IX9-51-AHd"; */
+"IX9-51-AHd.text" = "UIViewAnimationOptions";
+
+/* Class = "UILabel"; text = "UIView"; ObjectID = "IsM-UM-CA6"; */
+"IsM-UM-CA6.text" = "UIView";
+
+/* Class = "UILabel"; text = "UIPickerView"; ObjectID = "J5Q-TB-UIJ"; */
+"J5Q-TB-UIJ.text" = "UIPickerView";
+
+/* Class = "UILabel"; text = "MPMoviePlayerController"; ObjectID = "JB2-OT-W5v"; */
+"JB2-OT-W5v.text" = "MPMoviePlayerController";
+
+/* Class = "UILabel"; text = "Switch"; ObjectID = "JEB-Fn-c0z"; */
+"JEB-Fn-c0z.text" = "Switch";
+
+/* Class = "UIButton"; normalTitle = "Send Green View to Back"; ObjectID = "JIb-G3-A3f"; */
+"JIb-G3-A3f.normalTitle" = "Send Green View to Back";
+
+/* Class = "UIBarButtonItem"; title = "Move To My Location"; ObjectID = "KNk-fK-lde"; */
+"KNk-fK-lde.title" = "Move To My Location";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "LCL-Id-ZuP"; */
+"LCL-Id-ZuP.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "MKDirectionsRequest"; ObjectID = "LzF-uM-KMc"; */
+"LzF-uM-KMc.text" = "MKDirectionsRequest";
+
+/* Class = "UILabel"; text = "UIView, UIColor"; ObjectID = "M0U-Fq-TVo"; */
+"M0U-Fq-TVo.text" = "UIView, UIColor";
+
+/* Class = "UIButton"; normalTitle = "Add Green View to VC's Root View"; ObjectID = "MVi-cA-w9I"; */
+"MVi-cA-w9I.normalTitle" = "Add Green View to VC's Root View";
+
+/* Class = "UILabel"; text = "Content Mode"; ObjectID = "MZz-OZ-zIs"; */
+"MZz-OZ-zIs.text" = "Content Mode";
+
+/* Class = "UILabel"; text = "Current Coordinate"; ObjectID = "Miy-mq-Okr"; */
+"Miy-mq-Okr.text" = "Current Coordinate";
+
+/* Class = "UILabel"; text = "UIPickerView"; ObjectID = "Np7-Xp-7kw"; */
+"Np7-Xp-7kw.text" = "UIPickerView";
+
+/* Class = "UILabel"; text = "UILabel, UISegmentedControl"; ObjectID = "Nwd-XW-9me"; */
+"Nwd-XW-9me.text" = "UILabel, UISegmentedControl";
+
+/* Class = "UISegmentedControl"; O9Q-IP-kX2.segmentTitles[0] = "Left"; ObjectID = "O9Q-IP-kX2"; */
+"O9Q-IP-kX2.segmentTitles[0]" = "Left";
+
+/* Class = "UISegmentedControl"; O9Q-IP-kX2.segmentTitles[1] = "Center"; ObjectID = "O9Q-IP-kX2"; */
+"O9Q-IP-kX2.segmentTitles[1]" = "Center";
+
+/* Class = "UISegmentedControl"; O9Q-IP-kX2.segmentTitles[2] = "Right"; ObjectID = "O9Q-IP-kX2"; */
+"O9Q-IP-kX2.segmentTitles[2]" = "Right";
+
+/* Class = "UILabel"; text = "One"; ObjectID = "Occ-Yh-u8m"; */
+"Occ-Yh-u8m.text" = "One";
+
+/* Class = "UIButton"; normalTitle = "Show"; ObjectID = "Osa-fC-bU5"; */
+"Osa-fC-bU5.normalTitle" = "Show";
+
+/* Class = "UILabel"; text = "staticLabel"; ObjectID = "PIz-VV-MXT"; */
+"PIz-VV-MXT.text" = "staticLabel";
+
+/* Class = "UILabel"; text = "Text View with Attachment"; ObjectID = "PMW-Ob-GBm"; */
+"PMW-Ob-GBm.text" = "Text View with Attachment";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pgi-ls-ItQ"; */
+"Pgi-ls-ItQ.text" = "Label";
+
+/* Class = "UILabel"; text = "ClipsToBounds"; ObjectID = "Ppe-qv-hgQ"; */
+"Ppe-qv-hgQ.text" = "ClipsToBounds";
+
+/* Class = "UIButton"; normalTitle = "Toggle ClipsToBounds"; ObjectID = "Ppq-xY-wrv"; */
+"Ppq-xY-wrv.normalTitle" = "Toggle ClipsToBounds";
+
+/* Class = "UILabel"; text = "View Hierarchy"; ObjectID = "QFU-sC-2Sp"; */
+"QFU-sC-2Sp.text" = "View Hierarchy";
+
+/* Class = "UITextField"; placeholder = "Input Something"; ObjectID = "QPL-6J-04d"; */
+"QPL-6J-04d.placeholder" = "Input Something";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "QU9-ub-qXu"; */
+"QU9-ub-qXu.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Rotation Gesture"; ObjectID = "R5v-PI-eLF"; */
+"R5v-PI-eLF.text" = "Rotation Gesture";
+
+/* Class = "UIButton"; normalTitle = "Add Green View above Red View"; ObjectID = "RAH-SW-Ev9"; */
+"RAH-SW-Ev9.normalTitle" = "Add Green View above Red View";
+
+/* Class = "UILabel"; text = "UISlider"; ObjectID = "RAO-8t-naA"; */
+"RAO-8t-naA.text" = "UISlider";
+
+/* Class = "UILabel"; text = "AVAudioSession"; ObjectID = "RAt-to-zcD"; */
+"RAt-to-zcD.text" = "AVAudioSession";
+
+/* Class = "UIButton"; normalTitle = "Perform Segue Manually"; ObjectID = "RE8-4N-BAj"; */
+"RE8-4N-BAj.normalTitle" = "Perform Segue Manually";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "Ru7-tY-BhB"; */
+"Ru7-tY-BhB.text" = "R";
+
+/* Class = "UILabel"; text = "CLLocationManager"; ObjectID = "SFS-Uk-Uo2"; */
+"SFS-Uk-Uo2.text" = "CLLocationManager";
+
+/* Class = "UIButton"; normalTitle = "Global Queue"; ObjectID = "SXK-JN-8Lc"; */
+"SXK-JN-8Lc.normalTitle" = "Global Queue";
+
+/* Class = "UILabel"; text = "Timer"; ObjectID = "SaG-Jf-A4Z"; */
+"SaG-Jf-A4Z.text" = "Timer";
+
+/* Class = "UILabel"; text = "View Alpha"; ObjectID = "Scv-HT-hM4"; */
+"Scv-HT-hM4.text" = "View Alpha";
+
+/* Class = "UILabel"; text = "Two"; ObjectID = "See-iC-0nC"; */
+"See-iC-0nC.text" = "Two";
+
+/* Class = "UILabel"; text = "UIDatePicker, UILocalNotification"; ObjectID = "StI-j6-nPv"; */
+"StI-j6-nPv.text" = "UIDatePicker, UILocalNotification";
+
+/* Class = "UITextField"; placeholder = "Input Number"; ObjectID = "T0f-kR-Dua"; */
+"T0f-kR-Dua.placeholder" = "Input Number";
+
+/* Class = "UILabel"; text = "UIActivityIndicator"; ObjectID = "Tfq-Ew-3FA"; */
+"Tfq-Ew-3FA.text" = "UIActivityIndicator";
+
+/* Class = "UIButton"; normalTitle = "Apply Attributed String"; ObjectID = "Tnz-ob-VcP"; */
+"Tnz-ob-VcP.normalTitle" = "Apply Attributed String";
+
+/* Class = "UIButton"; normalTitle = "Add Green View below Red View"; ObjectID = "UuN-ev-zkb"; */
+"UuN-ev-zkb.normalTitle" = "Add Green View below Red View";
+
+/* Class = "UILabel"; text = "UIVisualEffectView"; ObjectID = "Ux7-m5-nWK"; */
+"Ux7-m5-nWK.text" = "UIVisualEffectView";
+
+/* Class = "UILabel"; text = "UIAlertController"; ObjectID = "VYt-cy-KQR"; */
+"VYt-cy-KQR.text" = "UIAlertController";
+
+/* Class = "UILabel"; text = "UITextView, NSTextAttachment"; ObjectID = "WJh-kE-tPa"; */
+"WJh-kE-tPa.text" = "UITextView, NSTextAttachment";
+
+/* Class = "UIButton"; normalTitle = "Main Queue"; ObjectID = "Xbf-WV-8zV"; */
+"Xbf-WV-8zV.normalTitle" = "Main Queue";
+
+/* Class = "UILabel"; text = "Go to Another Storyboard"; ObjectID = "Xpk-CX-ys6"; */
+"Xpk-CX-ys6.text" = "Go to Another Storyboard";
+
+/* Class = "UILabel"; text = "Image View"; ObjectID = "Xv9-TT-hxy"; */
+"Xv9-TT-hxy.text" = "Image View";
+
+/* Class = "UITableViewSection"; headerTitle = "Table View & Collection View"; ObjectID = "XyF-1i-UH9"; */
+"XyF-1i-UH9.headerTitle" = "Table View & Collection View";
+
+/* Class = "UIButton"; normalTitle = "Two"; ObjectID = "Y17-cV-kVl"; */
+"Y17-cV-kVl.normalTitle" = "Two";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Y4T-5x-bOp"; */
+"Y4T-5x-bOp.text" = "Label";
+
+/* Class = "UILabel"; text = "Custom View, Live Rendering"; ObjectID = "YDa-gG-kx6"; */
+"YDa-gG-kx6.text" = "Custom View, Live Rendering";
+
+/* Class = "UILabel"; text = "Pinch Gesture"; ObjectID = "YU9-QK-mnf"; */
+"YU9-QK-mnf.text" = "Pinch Gesture";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZGh-Id-5Ul"; */
+"ZGh-Id-5Ul.text" = "Label";
+
+/* Class = "UILabel"; text = "UITextView"; ObjectID = "ZWg-wN-eZZ"; */
+"ZWg-wN-eZZ.text" = "UITextView";
+
+/* Class = "UILabel"; text = "UIView, UITouch"; ObjectID = "ZuT-U7-P9h"; */
+"ZuT-U7-P9h.text" = "UIView, UITouch";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bD7-dF-AHM"; */
+"bD7-dF-AHM.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "baL-Dn-CDG"; */
+"baL-Dn-CDG.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Subview Transition"; ObjectID = "bhn-1R-yPy"; */
+"bhn-1R-yPy.normalTitle" = "Subview Transition";
+
+/* Class = "UILabel"; text = "Alert"; ObjectID = "bvx-DB-d09"; */
+"bvx-DB-d09.text" = "Alert";
+
+/* Class = "UILabel"; text = "UIView, UIImageView"; ObjectID = "cBD-S5-Caf"; */
+"cBD-S5-Caf.text" = "UIView, UIImageView";
+
+/* Class = "UITableViewSection"; headerTitle = "Transition"; ObjectID = "cBv-Jt-D4B"; */
+"cBv-Jt-D4B.headerTitle" = "Transition";
+
+/* Class = "UILabel"; text = "Text Field"; ObjectID = "csu-aR-Uaj"; */
+"csu-aR-Uaj.text" = "Text Field";
+
+/* Class = "UILabel"; text = "Lat"; ObjectID = "cxX-id-hBH"; */
+"cxX-id-hBH.text" = "Lat";
+
+/* Class = "UITableViewSection"; headerTitle = "Controls"; ObjectID = "cyr-2I-x72"; */
+"cyr-2I-x72.headerTitle" = "Controls";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dgx-aV-tfz"; */
+"dgx-aV-tfz.text" = "Label";
+
+/* Class = "UILabel"; text = "Pan Gesture"; ObjectID = "do7-KN-w6a"; */
+"do7-KN-w6a.text" = "Pan Gesture";
+
+/* Class = "UILabel"; text = "Corner Radius"; ObjectID = "eUf-6E-AM3"; */
+"eUf-6E-AM3.text" = "Corner Radius";
+
+/* Class = "UILabel"; text = "Overlay View"; ObjectID = "ehP-5q-ruR"; */
+"ehP-5q-ruR.text" = "Overlay View";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "eog-m3-G97"; */
+"eog-m3-G97.normalTitle" = "Stop";
+
+/* Class = "UILabel"; text = "View Transition"; ObjectID = "fV3-CB-SJv"; */
+"fV3-CB-SJv.text" = "View Transition";
+
+/* Class = "UILabel"; text = "Date Picker"; ObjectID = "fXH-SY-e30"; */
+"fXH-SY-e30.text" = "Date Picker";
+
+/* Class = "UILabel"; text = "UISegmentedControl"; ObjectID = "gNf-uN-x3r"; */
+"gNf-uN-x3r.text" = "UISegmentedControl";
+
+/* Class = "UITextField"; placeholder = "Input Address"; ObjectID = "go1-Aw-ERF"; */
+"go1-Aw-ERF.placeholder" = "Input Address";
+
+/* Class = "UITextField"; text = "서울특별시 강남구 역삼1동 858-50"; ObjectID = "go1-Aw-ERF"; */
+"go1-Aw-ERF.text" = "서울특별시 강남구 역삼1동 858-50";
+
+/* Class = "UILabel"; text = "UIAlertController"; ObjectID = "hEd-xp-edP"; */
+"hEd-xp-edP.text" = "UIAlertController";
+
+/* Class = "UILabel"; text = "Grand Centeral Dispatch"; ObjectID = "hHJ-js-evX"; */
+"hHJ-js-evX.text" = "Grand Centeral Dispatch";
+
+/* Class = "UIButton"; normalTitle = "Shuffle"; ObjectID = "hLV-dd-SVi"; */
+"hLV-dd-SVi.normalTitle" = "Shuffle";
+
+/* Class = "UIButton"; normalTitle = "Load Image From URL"; ObjectID = "hVL-aL-io8"; */
+"hVL-aL-io8.normalTitle" = "Load Image From URL";
+
+/* Class = "UITextField"; placeholder = "Input Latitude"; ObjectID = "hff-Rq-Zab"; */
+"hff-Rq-Zab.placeholder" = "Input Latitude";
+
+/* Class = "UITextField"; text = "37.499967400000003"; ObjectID = "hff-Rq-Zab"; */
+"hff-Rq-Zab.text" = "37.499967400000003";
+
+/* Class = "UILabel"; text = "Lorem Ipsum Dolar sit amet"; ObjectID = "hyB-ur-7JK"; */
+"hyB-ur-7JK.text" = "Lorem Ipsum Dolar sit amet";
+
+/* Class = "UILabel"; text = "UIPinchGestureRecognizer"; ObjectID = "iFO-z6-zKT"; */
+"iFO-z6-zKT.text" = "UIPinchGestureRecognizer";
+
+/* Class = "UILabel"; text = "Segmented Control"; ObjectID = "iMP-ze-Syg"; */
+"iMP-ze-Syg.text" = "Segmented Control";
+
+/* Class = "UILabel"; text = "Action Sheet"; ObjectID = "ijI-SO-3cP"; */
+"ijI-SO-3cP.text" = "Action Sheet";
+
+/* Class = "UIButton"; normalTitle = "Start Record"; ObjectID = "j0b-XO-C4R"; */
+"j0b-XO-C4R.normalTitle" = "Start Record";
+
+/* Class = "UILabel"; text = "Lon"; ObjectID = "joF-hx-b0r"; */
+"joF-hx-b0r.text" = "Lon";
+
+/* Class = "UILabel"; text = "Text View, Keyboard Notification"; ObjectID = "kGh-MH-itp"; */
+"kGh-MH-itp.text" = "Text View, Keyboard Notification";
+
+/* Class = "UISegmentedControl"; kGx-nq-tQW.segmentTitles[0] = "none"; ObjectID = "kGx-nq-tQW"; */
+"kGx-nq-tQW.segmentTitles[0]" = "none";
+
+/* Class = "UISegmentedControl"; kGx-nq-tQW.segmentTitles[1] = "line"; ObjectID = "kGx-nq-tQW"; */
+"kGx-nq-tQW.segmentTitles[1]" = "line";
+
+/* Class = "UISegmentedControl"; kGx-nq-tQW.segmentTitles[2] = "bezel"; ObjectID = "kGx-nq-tQW"; */
+"kGx-nq-tQW.segmentTitles[2]" = "bezel";
+
+/* Class = "UISegmentedControl"; kGx-nq-tQW.segmentTitles[3] = "rounded rect"; ObjectID = "kGx-nq-tQW"; */
+"kGx-nq-tQW.segmentTitles[3]" = "rounded rect";
+
+/* Class = "UIButton"; normalTitle = "Text Entry"; ObjectID = "kaq-oh-taC"; */
+"kaq-oh-taC.normalTitle" = "Text Entry";
+
+/* Class = "UITableViewSection"; headerTitle = "Localization"; ObjectID = "kb3-oW-ybE"; */
+"kb3-oW-ybE.headerTitle" = "Localization";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "lPf-13-gdm"; */
+"lPf-13-gdm.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Play Audio"; ObjectID = "mEr-ja-64x"; */
+"mEr-ja-64x.text" = "Play Audio";
+
+/* Class = "UILabel"; text = "UITextField"; ObjectID = "mQm-E7-uAp"; */
+"mQm-E7-uAp.text" = "UITextField";
+
+/* Class = "UIButton"; normalTitle = "Coordinate To Address"; ObjectID = "max-Nh-nO7"; */
+"max-Nh-nO7.normalTitle" = "Coordinate To Address";
+
+/* Class = "UILabel"; text = "UIView"; ObjectID = "mjS-Eg-3qA"; */
+"mjS-Eg-3qA.text" = "UIView";
+
+/* Class = "UILabel"; text = "7 chars"; ObjectID = "n5m-1r-u3q"; */
+"n5m-1r-u3q.text" = "7 chars";
+
+/* Class = "UISegmentedControl"; nfZ-Tg-rck.segmentTitles[0] = "Normal"; ObjectID = "nfZ-Tg-rck"; */
+"nfZ-Tg-rck.segmentTitles[0]" = "Normal";
+
+/* Class = "UISegmentedControl"; nfZ-Tg-rck.segmentTitles[1] = "Highlighted"; ObjectID = "nfZ-Tg-rck"; */
+"nfZ-Tg-rck.segmentTitles[1]" = "Highlighted";
+
+/* Class = "UISegmentedControl"; nfZ-Tg-rck.segmentTitles[2] = "Disabled"; ObjectID = "nfZ-Tg-rck"; */
+"nfZ-Tg-rck.segmentTitles[2]" = "Disabled";
+
+/* Class = "UILabel"; text = "UIImageView, UIImage"; ObjectID = "nrZ-IJ-oEv"; */
+"nrZ-IJ-oEv.text" = "UIImageView, UIImage";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oTe-un-ce4"; */
+"oTe-un-ce4.text" = "Label";
+
+/* Class = "UILabel"; text = "CLGeocoder"; ObjectID = "ohY-O6-KGQ"; */
+"ohY-O6-KGQ.text" = "CLGeocoder";
+
+/* Class = "UILabel"; text = "AVAudioRecorder"; ObjectID = "oxt-5y-HCB"; */
+"oxt-5y-HCB.text" = "AVAudioRecorder";
+
+/* Class = "UILabel"; text = "Clip To Bounds"; ObjectID = "p8e-Qm-TyQ"; */
+"p8e-Qm-TyQ.text" = "Clip To Bounds";
+
+/* Class = "UISegmentedControl"; pcU-Bp-c40.segmentTitles[0] = "First"; ObjectID = "pcU-Bp-c40"; */
+"pcU-Bp-c40.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; pcU-Bp-c40.segmentTitles[1] = "Second"; ObjectID = "pcU-Bp-c40"; */
+"pcU-Bp-c40.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qET-r8-gGc"; */
+"qET-r8-gGc.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Three"; ObjectID = "qIr-hT-wVJ"; */
+"qIr-hT-wVJ.normalTitle" = "Three";
+
+/* Class = "UIButton"; normalTitle = "Add Green View to Blue View"; ObjectID = "qkd-5r-FD2"; */
+"qkd-5r-FD2.normalTitle" = "Add Green View to Blue View";
+
+/* Class = "UIButton"; normalTitle = "One"; ObjectID = "quI-vB-vCD"; */
+"quI-vB-vCD.normalTitle" = "One";
+
+/* Class = "UIButton"; normalTitle = "Change Content Mode"; ObjectID = "rWU-uR-lgw"; */
+"rWU-uR-lgw.normalTitle" = "Change Content Mode";
+
+/* Class = "UILabel"; text = "Record Audio"; ObjectID = "rbU-K3-H5s"; */
+"rbU-K3-H5s.text" = "Record Audio";
+
+/* Class = "UILabel"; text = "Shadow Radius"; ObjectID = "rfQ-CC-Umc"; */
+"rfQ-CC-Umc.text" = "Shadow Radius";
+
+/* Class = "UILabel"; text = "MKMapView"; ObjectID = "rq0-ZE-zcV"; */
+"rq0-ZE-zcV.text" = "MKMapView";
+
+/* Class = "UITableViewSection"; headerTitle = "View"; ObjectID = "sF3-iN-2jH"; */
+"sF3-iN-2jH.headerTitle" = "View";
+
+/* Class = "UIButton"; normalTitle = "Remove Green View"; ObjectID = "sFf-XL-64i"; */
+"sFf-XL-64i.normalTitle" = "Remove Green View";
+
+/* Class = "UIButton"; normalTitle = "Address To Coordinate"; ObjectID = "tjy-u1-piz"; */
+"tjy-u1-piz.normalTitle" = "Address To Coordinate";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "tsh-qd-YSy"; */
+"tsh-qd-YSy.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "....."; ObjectID = "tyi-jO-l1S"; */
+"tyi-jO-l1S.text" = ".....";
+
+/* Class = "UITextField"; text = "서울특별시 강남구 논현1동 2-9"; ObjectID = "tz5-E9-UPY"; */
+"tz5-E9-UPY.text" = "서울특별시 강남구 논현1동 2-9";
+
+/* Class = "UITextField"; placeholder = "Input Something"; ObjectID = "ucR-Ev-wlk"; */
+"ucR-Ev-wlk.placeholder" = "Input Something";
+
+/* Class = "UIButton"; normalTitle = "Stop Record"; ObjectID = "ucb-CJ-0xH"; */
+"ucb-CJ-0xH.normalTitle" = "Stop Record";
+
+/* Class = "UIButton"; normalTitle = "Schedule Local Notification"; ObjectID = "uea-lX-cei"; */
+"uea-lX-cei.normalTitle" = "Schedule Local Notification";
+
+/* Class = "UILabel"; text = "DispatchQueue"; ObjectID = "uhA-iK-yRh"; */
+"uhA-iK-yRh.text" = "DispatchQueue";
+
+/* Class = "UILabel"; text = "Play Video"; ObjectID = "uzL-Aj-DFt"; */
+"uzL-Aj-DFt.text" = "Play Video";
+
+/* Class = "UILabel"; text = "UIButton"; ObjectID = "vB6-UK-Oe5"; */
+"vB6-UK-Oe5.text" = "UIButton";
+
+/* Class = "UILabel"; text = "Localization"; ObjectID = "vC2-MT-TND"; */
+"vC2-MT-TND.text" = "Localization";
+
+/* Class = "UILabel"; text = "Shadow"; ObjectID = "vQf-xC-q2Y"; */
+"vQf-xC-q2Y.text" = "Shadow";
+
+/* Class = "UILabel"; text = "UIPickerView, Locale"; ObjectID = "vRB-BS-Wa1"; */
+"vRB-BS-Wa1.text" = "UIPickerView, Locale";
+
+/* Class = "UIButton"; normalTitle = "Switch View"; ObjectID = "vdf-0k-xpj"; */
+"vdf-0k-xpj.normalTitle" = "Switch View";
+
+/* Class = "UISegmentedControl"; vid-Sy-QYM.segmentTitles[0] = "First"; ObjectID = "vid-Sy-QYM"; */
+"vid-Sy-QYM.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; vid-Sy-QYM.segmentTitles[1] = "Second"; ObjectID = "vid-Sy-QYM"; */
+"vid-Sy-QYM.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Map View, Pin"; ObjectID = "vk8-6P-Evh"; */
+"vk8-6P-Evh.text" = "Map View, Pin";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vzB-u5-oNr"; */
+"vzB-u5-oNr.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Request Direction"; ObjectID = "w5X-xB-V09"; */
+"w5X-xB-V09.normalTitle" = "Request Direction";
+
+/* Class = "UILabel"; text = "UIProgressView"; ObjectID = "wrI-4i-KC4"; */
+"wrI-4i-KC4.text" = "UIProgressView";
+
+/* Class = "UILabel"; text = "Multi Picker"; ObjectID = "wyv-wk-sOE"; */
+"wyv-wk-sOE.text" = "Multi Picker";
+
+/* Class = "UILabel"; text = "Progress View"; ObjectID = "xJr-ce-Txg"; */
+"xJr-ce-Txg.text" = "Progress View";
+
+/* Class = "UILabel"; text = "Border Width"; ObjectID = "xRj-im-jsA"; */
+"xRj-im-jsA.text" = "Border Width";
+
+/* Class = "UIButton"; normalTitle = "Add Green View"; ObjectID = "xnO-rQ-1T5"; */
+"xnO-rQ-1T5.normalTitle" = "Add Green View";
+
+/* Class = "UILabel"; text = "Number Input Field"; ObjectID = "yab-D4-0mw"; */
+"yab-D4-0mw.text" = "Number Input Field";
+
+/* Class = "UISegmentedControl"; yn8-fE-8XC.segmentTitles[0] = "Time"; ObjectID = "yn8-fE-8XC"; */
+"yn8-fE-8XC.segmentTitles[0]" = "Time";
+
+/* Class = "UISegmentedControl"; yn8-fE-8XC.segmentTitles[1] = "Date"; ObjectID = "yn8-fE-8XC"; */
+"yn8-fE-8XC.segmentTitles[1]" = "Date";
+
+/* Class = "UISegmentedControl"; yn8-fE-8XC.segmentTitles[2] = "Date & Time"; ObjectID = "yn8-fE-8XC"; */
+"yn8-fE-8XC.segmentTitles[2]" = "Date & Time";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "zj8-bz-HCt"; */
+"zj8-bz-HCt.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITableViewSection"; headerTitle = "Multimedia"; ObjectID = "zmF-Yw-04q"; */
+"zmF-Yw-04q.headerTitle" = "Multimedia";
+
+/* Class = "UIButton"; disabledTitle = "Disabled State"; ObjectID = "zqs-uj-zHP"; */
+"zqs-uj-zHP.disabledTitle" = "Disabled State";
+
+/* Class = "UIButton"; highlightedTitle = "Highlighted State"; ObjectID = "zqs-uj-zHP"; */
+"zqs-uj-zHP.highlightedTitle" = "Highlighted State";
+
+/* Class = "UIButton"; normalTitle = "Normal State"; ObjectID = "zqs-uj-zHP"; */
+"zqs-uj-zHP.normalTitle" = "Normal State";
