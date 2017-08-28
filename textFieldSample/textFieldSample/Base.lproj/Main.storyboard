@@ -29,6 +29,9 @@
                                         <nil key="textColor"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
+                                        <connections>
+                                            <outlet property="delegate" destination="BYZ-38-t0r" id="P9V-N5-nWC"/>
+                                        </connections>
                                     </textField>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vC0-mI-vDu">
                                         <rect key="frame" x="325" y="20" width="30" height="30"/>
@@ -37,6 +40,9 @@
                                             <constraint firstAttribute="width" constant="30" id="uBi-5F-zwP"/>
                                         </constraints>
                                         <state key="normal" title="입력"/>
+                                        <connections>
+                                            <action selector="closeAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Whz-Pv-kHW"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -57,6 +63,10 @@
                             <constraint firstItem="Nfx-fQ-htX" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="HLe-rw-mAL"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="bottom" destination="4LF-IU-g1l" id="yfm-uZ-RoL"/>
+                        <outlet property="textField" destination="bUb-bk-26e" id="wvk-yt-enj"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

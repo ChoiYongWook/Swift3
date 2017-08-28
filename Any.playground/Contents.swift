@@ -93,3 +93,24 @@ func repare(device: MediaPlayable) {
 
 repare(device: pod2)
 repare(device: sw)
+
+protocol RemoteControllable {
+    func volUp()
+    func volDown()
+}
+
+let pod3 = iPod()
+
+var result = pod3 is MediaPlayable
+result = pod3 is RemoteControllable
+
+if let device = pod3 as? MediaPlayable {
+    device.play()
+}
+
+if let remote = pod3 as? RemoteControllable {
+    remote.volUp()
+}
+
+let mediaDevice2 = pod3 as MediaPlayable
+let remoteDevice = pod3 as RemoteControllable
