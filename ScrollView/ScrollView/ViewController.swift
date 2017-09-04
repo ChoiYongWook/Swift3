@@ -39,14 +39,38 @@ class ViewController: UIViewController, UIScrollViewDelegate {
             
             imageScrollView.addSubview(imgView)
         }
+        
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        imageScrollView.isPagingEnabled = true
         
+        DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
+            //타이머로 아래 애니메이션 실행 (Progress 코드 참고하기)
+            UIView.animate(withDuration: 0.3, animations: { 
+                self.imageScrollView.contentOffset = CGPoint(x: self.imageScrollView.frame.width, y: 0)
+            })
+        }
+    }
+    
+    override func viewDidLayoutSubviews() {
+        super.viewDidLayoutSubviews()
         
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3, execute: self.update)
+        for index in 1...7 {
+            let imageName = "mov\(index)"
+            let image = UIImage(named: imageName)
+            
+            var frame = imageScrollView.frame
+            frame.origin.x = CGFloat(index - 1) * frame.width
+            
+            let imgView = UIImageView(frame: frame)
+            
+            imgView.image = image
+            
+            imageScrollView.addSubview(imgView)
+        }
         
         imageScrollView.contentSize = CGSize(width: imageScrollView.frame.width * 7, height: 0)
     }
