@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Camera" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ltS-vT-84n">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="azn-Oj-U5D" appends="YES" id="DbC-eC-uY9"/>
+                                </connections>
+                            </imageView>
+                            <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="J3z-6v-Wqh">
+                                <rect key="frame" x="0.0" y="599" width="375" height="68"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="oWW-uR-MnG">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="68"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                </view>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="68" id="gUC-ql-d93"/>
+                                </constraints>
+                                <blurEffect style="light"/>
+                            </visualEffectView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7tL-uw-gKd">
+                                <rect key="frame" x="16" y="629" width="44" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="3sp-LJ-xy5"/>
+                                </constraints>
+                                <state key="normal" title="Album"/>
+                                <connections>
+                                    <action selector="pick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QhZ-am-cxN"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FSn-kk-JaB">
+                                <rect key="frame" x="160" y="629" width="54" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="54" id="5nM-rb-iJg"/>
+                                    <constraint firstAttribute="height" constant="30" id="iSI-Tu-4tx"/>
+                                </constraints>
+                                <state key="normal" title="Camera"/>
+                                <connections>
+                                    <action selector="take:" destination="BYZ-38-t0r" eventType="touchUpInside" id="j4f-eU-ngm"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ygp-rq-zh4">
+                                <rect key="frame" x="319" y="629" width="40" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="40" id="89k-wx-2dw"/>
+                                    <constraint firstAttribute="height" constant="30" id="w8H-L1-ryN"/>
+                                </constraints>
+                                <state key="normal" title="Share"/>
+                                <connections>
+                                    <action selector="share:" destination="BYZ-38-t0r" eventType="touchUpInside" id="NgE-MU-SdZ"/>
+                                </connections>
+                            </button>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="GNb-hy-a7Q">
+                                <rect key="frame" x="126" y="20" width="123" height="29"/>
+                                <segments>
+                                    <segment title="Original"/>
+                                    <segment title="Filtered"/>
+                                </segments>
+                                <connections>
+                                    <action selector="segmentChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="jfr-Qd-Kdp"/>
+                                </connections>
+                            </segmentedControl>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailingMargin" secondItem="ygp-rq-zh4" secondAttribute="trailing" id="0eA-Oz-a6Q"/>
+                            <constraint firstItem="GNb-hy-a7Q" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="6PK-qp-SXq"/>
+                            <constraint firstItem="GNb-hy-a7Q" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="6zp-1V-V6C"/>
+                            <constraint firstItem="7tL-uw-gKd" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="9Uy-Ly-Sc6"/>
+                            <constraint firstItem="FSn-kk-JaB" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="JGa-zh-CIk"/>
+                            <constraint firstItem="J3z-6v-Wqh" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Zr2-Jc-h8w"/>
+                            <constraint firstAttribute="bottomMargin" secondItem="FSn-kk-JaB" secondAttribute="bottom" constant="8" id="bUC-4v-UOZ"/>
+                            <constraint firstAttribute="bottomMargin" secondItem="7tL-uw-gKd" secondAttribute="bottom" constant="8" id="coy-yI-M2z"/>
+                            <constraint firstAttribute="trailing" secondItem="J3z-6v-Wqh" secondAttribute="trailing" id="dA9-X5-VQc"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="J3z-6v-Wqh" secondAttribute="bottom" id="gkf-Ys-6gB"/>
+                            <constraint firstAttribute="bottomMargin" secondItem="ygp-rq-zh4" secondAttribute="bottom" constant="8" id="kc8-e5-f5e"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="imageView" destination="ltS-vT-84n" id="V5F-Lk-ghC"/>
+                        <outlet property="seg" destination="GNb-hy-a7Q" id="PAj-Vu-t0w"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="azn-Oj-U5D">
+                    <connections>
+                        <action selector="handleGesture:" destination="BYZ-38-t0r" id="LoI-35-fXX"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="136.80000000000001" y="138.98050974512745"/>
+        </scene>
+    </scenes>
+</document>

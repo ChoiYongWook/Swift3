@@ -18,6 +18,30 @@ class HistoryViewController: UIViewController, UITableViewDataSource, UITableVie
         return UIApplication.shared.delegate as! AppDelegate
     }
     
+    func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCellEditingStyle, forRowAt indexPath: IndexPath) {
+        switch editingStyle {
+        case .delete:
+            let indexToDelete = indexPath.row
+            
+            let itemToDelete = list[indexPath.row]
+            let context = appDelegate.persistentContainer.viewContext
+            context.delete(itemToDelete)
+            
+            //context변경사항까지 저장을 해야 가능함
+            do {
+                try context.save()
+            } catch {
+                print(error)
+            }
+            
+            list.remove(at: indexToDelete)
+            
+            tableView.deleteRows(at: [indexPath], with: .automatic)
+        default:
+            break;
+        }
+    }
+    
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         
         let favorite = list[indexPath.row]

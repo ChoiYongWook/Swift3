@@ -42,6 +42,9 @@
                                             <constraint firstAttribute="height" constant="30" id="PAm-Hw-xRU"/>
                                         </constraints>
                                         <state key="normal" title="S"/>
+                                        <connections>
+                                            <action selector="googleSearch:" destination="BYZ-38-t0r" eventType="touchUpInside" id="shN-gc-YJS"/>
+                                        </connections>
                                     </button>
                                     <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="iGb-BC-xIo">
                                         <rect key="frame" x="46" y="13" width="283" height="30"/>
@@ -287,6 +290,7 @@
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="K0m-Ls-fUa" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" id="sC5-xF-cqb">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                     </tabBar>
